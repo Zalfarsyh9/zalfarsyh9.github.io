@@ -4,6 +4,8 @@
     "start_url":"/index.html",
     "display": "standalone",
     "background-color": "#ffffff",
+    "orientation": "portrait",
+    "description": "Ini adalah portofolio Web saya",
     "theme_color": "#ffffff",
     "gcm-sender-id": "393323117445",
     "icons":[
@@ -19,6 +21,20 @@
             "type": "image/png",
             "purpose": "maskable"
         }
+    ],
+    "screenshots": [
+      {
+        "src": "/images/ss.png",
+        "sizes": "790x539",
+        "type":"image/png"
+      },
+      {
+        "src": "/images/screenshot.png",
+        "sizes": "640x320",
+        "type":"image/png",
+        "form_factor": "wide",
+        "label": "portfolio"
+      }
     ]
 
 }
