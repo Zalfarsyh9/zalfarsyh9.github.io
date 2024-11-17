@@ -3,7 +3,7 @@
     "short_name":"PWA",
     "start_url":"/index.html",
     "display": "standalone",
-    "background-color": "#ffffff",
+    "background_color": "#ffffff",
     "orientation": "portrait",
     "description": "Ini adalah portofolio Web saya",
     "theme_color": "#ffffff",
